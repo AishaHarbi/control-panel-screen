@@ -1,0 +1,92 @@
+body{
+background-color: #000000;
+
+
+}
+.one{
+    background-color: #B8E0ED;
+    width: 200px;
+    height: 60px;
+     border:5px double #117E8E;
+    position:fixed;
+    top:300px;
+    right: 600px;
+    font-family:"Times New Roman";
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.one:hover{
+    background-color: blue;
+    color: white;
+}
+.two{
+    background-color: #B8E0ED;
+    width: 200px;
+    height: 60px;
+     border:5px double #117E8E;
+    position:fixed;
+    top:400px;
+    left: 310px;
+    font-family:"Times New Roman";
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.two:hover{
+    background-color: blue;
+    color: white;}
+.three{
+    background-color: #B8E0ED;
+    width: 200px;
+    height: 60px;
+     border:5px double #117E8E;
+    position:fixed;
+    top:400px;
+    right: 360px;
+    font-family:"Times New Roman";
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.three:hover{
+    background-color: blue;
+    color: white;}
+    .four{
+    background-color: #B8E0ED;
+    width: 200px;
+    height: 60px;
+     border:5px double #117E8E;
+    position:fixed;
+    top:500px;
+    right: 600px;
+    font-family:"Times New Roman";
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.four:hover{
+    background-color: blue;
+    color: white;}
+    .five{
+    background-color: red;
+    width: 200px;
+    height: 60px;
+     border:5px double #7A0B26;
+    position:absolute;
+    top:400px;
+    right: 600px;
+    font-family:"Times New Roman";
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.five:hover{
+    background-color: blue;
+    color: white;
